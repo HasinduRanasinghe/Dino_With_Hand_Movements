@@ -1,2 +1,2 @@
 # Dino_With_Hand_Movements
-A real-time hand gesture control system that interacts with the Chrome Dino game.
+This Python project uses OpenCV and MediaPipe to create a real-time hand gesture control system that interacts with the Chrome Dino game. By utilizing a laptop's webcam, the program detects hand landmarks and triggers a jump when the hand is folded (e.g., making a fist). The code leverages pyautogui to send simulated keystrokes, making it possible to control the Dino game through simple hand movements. This fun and interactive project serves as an example of how computer vision and automation can enhance user interaction with web-based applications.
